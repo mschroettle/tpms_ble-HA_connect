@@ -4,7 +4,7 @@
 [![hacs](https://img.shields.io/badge/HACS-default-orange.svg?style=flat-square)](https://hacs.xyz)
 
 
-# TPMS_BLE
+# Tiremoni TPMS_BLE
 Integrates Bluetooth LE to Home Assistant using passive connection to get infromation from the sensors.
 
 Exposes the following sensors:
@@ -16,8 +16,7 @@ Exposes the following sensors:
 
 Easiest install is via [HACS](https://hacs.xyz/):
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=bkbilly&repository=tpms_ble&category=integration)
-
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mschroettle&repository=tpms_ble-HA_connect&category=integration)
 `HACS -> Explore & Add Repositories -> TPMS_BLE`
 
 The device will be autodiscovered once the data are received by any bluetooth proxy.
