@@ -17,22 +17,10 @@ Exposes the following sensors:
 Easiest install is via [HACS](https://hacs.xyz/):
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mschroettle&repository=tpms_ble-HA_connect&category=integration)
+
+
 `HACS -> Explore & Add Repositories -> TPMS_BLE`
 
 The device will be autodiscovered once the data are received by any bluetooth proxy.
 
-## Supported Devices
-### Type A
-Android App: [TPMSII](https://play.google.com/store/apps/details?id=com.chaoyue.tyed) 
-
-Product Link: [AliExpress](https://www.aliexpress.com/item/1005006129840804.html)
-
-<img width="383" alt="type1" src="https://github.com/user-attachments/assets/0bbb5e22-e3b9-4819-bcd5-a883127a9c12" />
-
-### Type B
-Android App: [SYTPMS](https://play.google.com/store/apps/details?id=com.bekubee.sytpms)
-
-Product Link: [AliExpress](https://www.aliexpress.com/item/1005006755884183.html)
-
-<img width="375" alt="type2" src="https://github.com/user-attachments/assets/ba551063-548e-49e4-985b-6ea3a79a86f1" />
 
